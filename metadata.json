@@ -1,0 +1,7 @@
+{
+  "name": "Event Time Converter",
+  "description": "A premium Global Event Time Converter — Automatically converts event times from any country to your local time zone with precision.\nEliminates confusion across time zones with instant conversion, reminders, and a sleek dark 3D mobile-first design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
